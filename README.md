@@ -57,6 +57,7 @@ To reproduce this project from scratch, follow the steps below. Ensure you have 
     │   └── 03_analysis_queries.sql
     ├── README.md
     └── presentation.pdf
+    └── dashboard_link.md
    ```
 ### Final Deliverables
 * SQL Scripts: All SQL scripts used are located in the ```sql_scripts/``` folder.
