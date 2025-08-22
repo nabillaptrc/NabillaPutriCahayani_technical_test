@@ -51,10 +51,6 @@ To reproduce this project from scratch, follow the steps below. Ensure you have 
    Project Folder Structure
    The following is the recommended folder structure for the final submission.
    ```
-    ├── data/
-    │   ├── users_data.csv
-    │   ├── cards_data.csv
-    │   └── transactions_data.csv
     ├── sql_scripts/
     │   ├── 01_create_tables.sql
     │   ├── 02_clean_data.sql
